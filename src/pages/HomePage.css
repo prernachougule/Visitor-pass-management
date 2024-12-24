@@ -1,0 +1,90 @@
+/* HomePage.css */
+.homepage {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .homepage-header {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 3rem 1rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+  }
+  
+  .main-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .subtext {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .cta-button {
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #fff;
+    color: #4caf50;
+    font-weight: bold;
+  }
+  
+  .cta-button.secondary {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .cta-button:hover {
+    opacity: 0.9;
+  }
+  
+  .features-section {
+    padding: 2rem 1rem;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  .feature {
+    max-width: 300px;
+    text-align: left;
+  }
+  
+  .feature h3 {
+    font-size: 1.5rem;
+    color: #4caf50;
+    margin-bottom: 0.5rem;
+  }
+  
+  .feature p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .homepage-footer {
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    color: #777;
+  }
+  

@@ -1,0 +1,27 @@
+.gate-pass-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .gate-pass {
+    border: 2px solid #333;
+    padding: 20px;
+    width: 300px;
+    text-align: left;
+  }
+  
+  .print-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .print-button:hover {
+    background-color: #0056b3;
+  }
+  
